@@ -1,0 +1,13 @@
+{
+  "predef": {
+    "beforeEach": true,
+    "it": true,
+    "expect": true,
+    "describe": true,
+    "exports": true
+  },
+  "strict": true,
+  "white": false,
+  "eqnull": true,
+  "esnext": true
+}

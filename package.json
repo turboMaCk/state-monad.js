@@ -1,0 +1,14 @@
+{
+  "name": "monad.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/jasmine/bin/jasmine.js"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
